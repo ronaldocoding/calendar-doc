@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Agenda',
   tagline: 'Organize-se com facilidade!',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/calendar-icon.svg',
 
   // Set the production url of your site here
   url: 'https://ronaldocoding.github.io',
@@ -67,7 +67,7 @@ const config = {
         title: 'Agenda',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/calendar-icon.svg',
+          src: 'img/calendar-i.svg',
         },
         items: [
           {
