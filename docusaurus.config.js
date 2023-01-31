@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Agenda',
   tagline: 'Organize-se com facilidade!',
-  favicon: 'img/calendar-icon.svg',
+  favicon: 'img/favicon.icon',
 
   // Set the production url of your site here
   url: 'https://ronaldocoding.github.io',
@@ -67,7 +67,7 @@ const config = {
         title: 'Agenda',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/calendar-i.svg',
+          src: 'img/calendar-icon.svg',
         },
         items: [
           {
@@ -127,7 +127,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Agenda, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Agenda. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
