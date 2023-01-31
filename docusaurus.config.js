@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'Agenda',
+  tagline: 'Organize-se com facilidade!',
+  favicon: 'img/calendar-icon.svg',
 
   // Set the production url of your site here
   url: 'https://ronaldocoding.github.io',
@@ -64,10 +64,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Agenda',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/calendar-icon.svg',
         },
         items: [
           {
@@ -127,7 +127,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Agenda, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
