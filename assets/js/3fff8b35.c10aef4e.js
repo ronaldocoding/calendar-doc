@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcalendar_docs=self.webpackChunkcalendar_docs||[]).push([[143],{4768:e=>{e.exports=JSON.parse('{"permalink":"/calendar-doc/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

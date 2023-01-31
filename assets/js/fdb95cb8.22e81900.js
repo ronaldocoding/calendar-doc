@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcalendar_docs=self.webpackChunkcalendar_docs||[]).push([[5066],{8997:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/calendar-doc/blog/tags/hello","allTagsPath":"/calendar-doc/blog/tags","count":2}')}}]);
