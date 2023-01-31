@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ronaldocoding.github.io/calendar-doc/blog"/>
     <subtitle>Agenda Blog</subtitle>
-    <icon>https://ronaldocoding.github.io/calendar-doc/img/calendar-icon.svg</icon>
+    <icon>https://ronaldocoding.github.io/calendar-doc/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://ronaldocoding.github.io/calendar-doc/blog/welcome</id>
