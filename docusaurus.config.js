@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Agenda',
   tagline: 'Organize-se com facilidade!',
-  favicon: 'img/favicon.icon',
+  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://ronaldocoding.github.io',
@@ -127,7 +127,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Agenda. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Agenda  . Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
